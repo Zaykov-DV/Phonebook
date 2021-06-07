@@ -1,0 +1,23 @@
+li {
+    list-style: none;
+}
+
+.phone-item {
+    display: flex;
+}
+
+.phone-items {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.phones-list {
+    display: flex;
+}
+
+.phones-list li {
+    margin-right: 10px;
+}
+

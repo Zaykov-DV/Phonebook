@@ -1,0 +1,36 @@
+.form-add {
+    border: 1px solid black;
+    padding: 10px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.form-add p {
+    margin-bottom: 10px;
+}
+
+.input-label {
+    padding: 10px;
+}
+
+.input-form {
+    padding: 10px;
+    width: 250px;
+    border: 1px solid #000;
+}
+
+.input-form-error {
+    border: 1px solid red;
+}
+
+.add-button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.add-button {
+    background: #f8a035;
+}

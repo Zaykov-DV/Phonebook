@@ -1,0 +1,18 @@
+.phone-items {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.phone-name {
+    display: flex;
+}
+
+.phone-name p {
+    margin-right: 5px;
+}
+
+.remove-button {
+    background: #f83535;
+}

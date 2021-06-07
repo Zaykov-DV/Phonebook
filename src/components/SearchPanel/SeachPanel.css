@@ -1,0 +1,8 @@
+.search-panel {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.search-panel p {
+    margin-right: 10px;
+}
